@@ -1,0 +1,22 @@
+
+site_name: PI2 - Mesa de Pebolim
+
+repo_name: 'Documentacao'
+repo_url: 'https://github.com/pi2-2020-1-pebolim/Documentacao'
+
+theme:
+  name: 'material'
+  language: pt
+  palette:
+    primary: 'green'
+    accent: 'green'
+  font:
+    text: 'Barlow'
+  icon:
+    logo: material/library
+  feature:
+    tabs: true
+
+nav:
+  - Inicio: 
+    - Home: index.md
