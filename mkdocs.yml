@@ -20,3 +20,5 @@ theme:
 nav:
   - Inicio: 
     - Home: index.md
+  - Projeto:
+    - Estrutura Analítica do Projeto: eap.md
